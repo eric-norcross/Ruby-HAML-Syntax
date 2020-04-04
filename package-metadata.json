@@ -1,1 +1,8 @@
-{"url": "https://github.com/eric-norcross/Ruby-on-Rails-HAML-Syntax.git", "platforms": ["*"], "sublime_text": ">=3000", "dependencies": [], "version": "0.0.1", "description": "Ruby on Rails HMTL Syntax that supports multi-line properties"}
+{
+  "url": "https://github.com/eric-norcross/Ruby-HAML-Syntax.git",
+  "platforms": ["*"],
+  "sublime_text": ">=3000",
+  "dependencies": [],
+  "version": "0.0.1",
+  "description": "Ruby HMTL Syntax that supports multi-line attributes"
+}
